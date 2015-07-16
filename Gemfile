@@ -10,7 +10,9 @@ gem 'figaro', '~> 1.1.1'
 gem 'email_validator', '~> 1.6.0'
 gem 'lodash-rails', '~> 3.7.0'
 gem 'devise'
+gem 'braintree', '~> 2.45.0'
 
+# Rails-specific gems
 gem 'rails', '4.2.0'
 gem 'pg'
 gem 'sass-rails', '~> 5.0'
